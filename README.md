@@ -29,11 +29,13 @@ A command-line **Number Guessing Game** built in Python featuring selectable dif
 
 ## Project Structure
 
-
-number-guessing-game/
+``` text
+number_guessing_game/
 ├── number_guessing_game.py   # Main game script
 ├── high_scores.txt           # Auto-generated file storing player high scores
 └── README.md                 # Complete project documentation
+```
+--- 
 
 ## Prerequisites
  ### Requirements
